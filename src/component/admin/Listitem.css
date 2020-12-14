@@ -1,0 +1,4 @@
+.listItem :hover {
+  color: red;
+  font-weight: 500;
+}
